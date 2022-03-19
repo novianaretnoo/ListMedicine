@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336133837752",
+    "project_id": "listmedicine",
+    "storage_bucket": "listmedicine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336133837752:android:681a3701f27201aa1a354d",
+        "android_client_info": {
+          "package_name": "com.example.listmedicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336133837752-rjno5mu608iom5vi5dq42vji1pvhcko0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDal7l_Frbsac2h5MKiWc12vKwjBg-s17A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336133837752-rjno5mu608iom5vi5dq42vji1pvhcko0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
